@@ -1,0 +1,14 @@
+2023/09/03-16:04:42.912 97b0 Reusing MANIFEST C:\Users\Haoyu\web-scraping\data\Default\IndexedDB\https_www.jbhifi.com.au_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/03-16:04:42.913 97b0 Recovering log #62
+2023/09/03-16:04:42.913 97b0 Reusing old log C:\Users\Haoyu\web-scraping\data\Default\IndexedDB\https_www.jbhifi.com.au_0.indexeddb.leveldb/000062.log 
+2023/09/03-16:04:42.913 97b0 Delete type=2 #60
+2023/09/03-16:04:42.985 3094 Level-0 table #67: started
+2023/09/03-16:04:43.000 3094 Level-0 table #67: 1366 bytes OK
+2023/09/03-16:04:43.001 3094 Delete type=0 #62
+2023/09/03-16:04:43.002 3094 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 2444 : 1
+2023/09/03-16:04:43.002 3094 Compacting 1@0 + 1@1 files
+2023/09/03-16:04:43.010 3094 Generated table #68@0: 67 keys, 1482 bytes
+2023/09/03-16:04:43.011 3094 Compacted 1@0 + 1@1 files => 1482 bytes
+2023/09/03-16:04:43.012 3094 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/03-16:04:43.012 3094 Delete type=2 #67
+2023/09/03-16:04:43.012 3094 Manual compaction at level-0 from '\x00\x1c\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 2444 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
